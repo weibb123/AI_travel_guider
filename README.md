@@ -48,3 +48,15 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+## Description:
+
+Expo Router template: file-based structure
+
+index.tsx: responsible for render component
+
+add more screen by creating new file in <b>app/</b> folder app/about.tsx to add a new screen
+
+use link component to navigate between screens
+
